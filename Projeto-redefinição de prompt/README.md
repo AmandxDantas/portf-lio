@@ -1,4 +1,6 @@
 Refinaria e precisão de prompt
+
+
 📝 Descrição do Projeto
 Este projeto consiste em uma refinaria de prompts avançada que utiliza técnicas de engenharia de persona e enriquecimento de contexto. O objetivo principal é otimizar a precisão na geração de conteúdos generativos, garantindo a entrega de ativos de alta fidelidade através de um fluxo de trabalho rigoroso limitado a apenas cinco tentativas para alcançar o melhor resultado possível.
 
