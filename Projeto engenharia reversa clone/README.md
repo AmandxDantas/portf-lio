@@ -29,7 +29,7 @@ Sincronização Visual: Implementação de gradientes CSS dinâmicos que vincula
 
 🔧 Como Executar
 
-Escolah um site.
+Escolha um site.
 
 Faça um codigo um prompt tecninco bem claro sobre os elementos.
 
