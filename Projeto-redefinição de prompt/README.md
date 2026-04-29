@@ -9,18 +9,18 @@ A operação abrange o desenvolvimento de uma narrativa textual que simula uma c
 
 Desenvolvida como parte da disciplina de Inteligência Artificial (2026.3), a metodologia aplica padrões de refinamento iterativo para identificar as instruções mais eficazes para o modelo. Ao restringir o número de gerações, o processo prioriza a precisão estratégica do input inicial, utilizando padrões de comportamento e similaridades semânticas para prever e atingir a excelência criativa tanto em texto quanto em imagem.
 
-🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
 
 Ferramentas: Gemini e ChatGPT
 
-📊Resultados e Aprendizados
+### 📊Resultados e Aprendizados
 
 O projeto alcançou resultados sólidos em ambiente de simulação, demonstrando a eficácia do método de engenharia de prompt sobre a tentativa e erro aleatória.
 O refinamento atingiu o objetivo estético e narrativo em apenas três das cinco tentativas disponíveis, garantindo alta eficiência e economia de tokens.
 Precisão de Instrução: Aprendi a aplicar técnicas de filtragem de ambiguidades e detalhamento de contexto para melhorar a assertividade das respostas da inteligência artificial.
 Análise de Evolução: Estabeleci um fluxo de comparação visual e textual que mostra como a adição de camadas de persona transformou uma saudação genérica em um e-mail diplomático e autêntico de um pirata.
 
-🔧 Como Executar
+### 🔧 Como Executar
 
 Configure o ambiente de geração com as definições de persona estabelecidas na documentação do projeto.
 Insira as variáveis de contexto específicas para a correspondência real via Gmail e para a cena do astronauta em Marte.
