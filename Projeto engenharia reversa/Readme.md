@@ -2,14 +2,16 @@
 
 📝 Descrição do Projeto
 
-Esse projeto tem como base faze a evolução de um site ja existente como um autonomo
+Esse projeto tem como base fazer a evolução de um site ja existente como um autonomo
 
 🚀 Tecnologias Utilizadas
+
 Linguagem: TypeScript (React 18+)
 Estilização: Tailwind CSS (Arquitetura de utilitários)
 Animações: Motion (Framer Motion)
 Biblioteca Core: qr-code-styling
 Ícones: Lucide React
+
 📊 Resultados e Aprendizados
 O projeto alcançou uma fidelidade visual e funcional de 95% em relação à biblioteca original, com melhorias na experiência de uso.
 
