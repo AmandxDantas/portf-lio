@@ -12,13 +12,13 @@ Desenvolvido como um exercício prático de Engenharia Reversa e Prototipagem R�
 image*Figura 1: Interface principal do sistema exibindo o preview em tempo real e painel de controle.*
 
 
-🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
 
 Linguagem: TypeScript
 Bibliotecas: qr-code-styling, Tailwind CSS, Motion
 Ferramentas: Vite, Google AI Studio (Gemini 2.0)
 
-📊 Resultados e Aprendizados
+### 📊 Resultados e Aprendizados
 
 O projeto atingiu a paridade visual e funcional com a ferramenta de referência, demonstrando o poder da codificação assistida por IA.
 
@@ -27,7 +27,7 @@ Renderização Instantânea: Implementação de um fluxo reativo que atualiza os
 Clean Code e Componentização: Aprendi a estruturar gavetas de opções (Accordions) e layouts complexos de forma modular e reutilizável.
 Sincronização Visual: Implementação de gradientes CSS dinâmicos que vinculam o estilo da interface à cor principal do produto gerado.
 
-🔧 Como Executar
+### 🔧 Como Executar
 
 Escolha um site.
 
