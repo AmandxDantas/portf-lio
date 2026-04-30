@@ -49,6 +49,10 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Corrida do Prompt** |Metodo tecnico de prompts com poucas tentantivas na busca do melhor resultado. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/c7cfc36c84b2cbb5ccf091b43112a37f9897f6d1/Projeto-redefini%C3%A7%C3%A3o%20de%20prompt) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Engenharia de Software e IA com Bubble.io** |Sistema de orçamento no Bubble.io com IA, focado em automatizar propostas e organizar dados com eficiência. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/a155207e9a7611b6b0d9a962e8f423efdb334d0d/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
  
 
  
