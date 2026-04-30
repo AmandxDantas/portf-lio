@@ -53,7 +53,11 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Engenharia de Software e IA com Bubble.io** |Sistema de orçamento no Bubble.io com IA, focado em automatizar propostas e organizar dados com eficiência. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/a155207e9a7611b6b0d9a962e8f423efdb334d0d/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
- 
+
+ ### 🖥Front-End
+ | Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Site Fonoaudiologia** | Site desenvolvido para o curso de Fonoaudiologia da Univercidade Cidade de São Paulo | [Ver Projeto](https://github.com/AmandxDantas/Site-Fonoaudiologia/tree/23ba9014bec1acc1f863ec1441d1033d9b613061/RATS%20FINAL/RATS) |
 
  
 ### 🏗 Estrutura do Repositório
