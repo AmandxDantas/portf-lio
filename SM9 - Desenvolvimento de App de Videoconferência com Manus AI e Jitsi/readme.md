@@ -4,7 +4,7 @@
 
 
 ### 📋 Visão Geral
-IdiomaMeet é um aplicativo móvel nativo em Kotlin que permite praticar idiomas através de videoconferências com parceiros aleatórios. O app utiliza o Jitsi Meet para videoconferência de alta qualidade, oferecendo uma experiência simples e intuitiva para aprender idiomas conversando com nativos.
+IdiomaMeet é um aplicativo móvel nativo em Kotlin que permite praticar idiomas através de videoconferências com parceiros aleatórios. O app utiliza o Jitsi Meet para videoconferência de alta qualidade, oferecendo uma experiência simples e intuitiva para aprender idiomas conversando com nativos, ou outros estudantes do idioma. 
 Problema Resolvido
 
 Muitas pessoas querem praticar idiomas, mas enfrentam barreiras como:
