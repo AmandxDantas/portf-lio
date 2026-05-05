@@ -75,6 +75,11 @@ Use o chat integrado
 Clique "Sair" para encerrar
 Plain Text
 
+
+
+
+
+
 ## 📱 Pré-visualização
 
 ### URL de Acesso
