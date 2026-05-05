@@ -1,8 +1,12 @@
-IdiomaMeet 🌍
-Aplicativo Android de videoconferência que conecta você com parceiros aleatórios para conversas de idiomas em tempo real.
-📋 Visão Geral
+### IdiomaMeet 🌍
+ 
+ Aplicativo Android de videoconferência que conecta você com parceiros aleatórios para conversas de idiomas em tempo real.
+
+
+### 📋 Visão Geral
 IdiomaMeet é um aplicativo móvel nativo em Kotlin que permite praticar idiomas através de videoconferências com parceiros aleatórios. O app utiliza o Jitsi Meet para videoconferência de alta qualidade, oferecendo uma experiência simples e intuitiva para aprender idiomas conversando com nativos.
 Problema Resolvido
+
 Muitas pessoas querem praticar idiomas, mas enfrentam barreiras como:
 Falta de parceiros para conversação prática
 Dificuldade em encontrar nativos disponíveis
