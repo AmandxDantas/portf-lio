@@ -21,8 +21,8 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
 | 01 | Eclipse de Canga | Synthwave Melancólico / | [Ouvir MP3](./audios/eclipse-de-canga.mp3) |
-| 02 | Mística das Altas Hora | Trap Atmosférico Noturno | [Ouvir MP3](./audios/mistica-das-altas-hora.mp3) |
-| 03 | Alquimia de Maio | Neo-Samba Pop | [Ouvir MP3](./audios/alquimia-de-maio.mp3) |
+| 02 | Mística das Altas Hora | Trap Atmosférico Noturno | [projeto-musica-ia./audios/Altas Horas Mística.mp3) |
+| 03 | Alquimia de Maio | Neo-Samba Pop | [Ouvir MP3](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/blob/7bcf5a961bb5b24866afb9ba3e7e42298880e88f/projeto-musica-ia./audios/Alquimia%20de%20Maio.mp3) |
 | 04 | Labirinto de Maresia | Neo-Samba Hipnótico | [Ouvir MP3](./audios/labirinto-de-maresia.mp3) |
 | 05 | Aquarela de Aluguel | Samba-Trap Psicodélico | [Ouvir MP3](./audios/aquarela-de-aluguel.mp3) |
  
