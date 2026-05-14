@@ -44,6 +44,8 @@ Atualmente cursando o 2º período de Análise e Desenvolvimento de Sistemas na 
 | **Corrida do Prompt** | Método técnico de prompts com poucas tentativas para alcançar o melhor resultado. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/c7cfc36c84b2cbb5ccf091b43112a37f9897f6d1/Projeto-redefini%C3%A7%C3%A3o%20de%20prompt) |
 | **Engenharia de Software e IA com Bubble.io** | Sistema de orçamento com IA no Bubble.io para automatizar propostas e organizar dados. | [Ver Projeto](https://github.com/AmandxDantas/portf-lio/tree/a155207e9a7611b6b0d9a962e8f423efdb334d0d/Engenharia%20de%20Software%20e%20IA%20com%20Bubble.io) |
 | **IdiomaMeet** | Site que conecta usuários para troca e prática de idiomas. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/39d5198445d19b54af58b8d8db9d56e2864e1166/SM9%20-%20Desenvolvimento%20de%20App%20de%20Videoconfer%C3%AAncia%20com%20Manus%20AI%20e%20Jitsi) |
+| **Projeto Musica com Ia** | produção de um EP com 5 faixas inéditas, cujas letras foram geradas pela IA e a produção musical realizada via Suno AI.. | [Ver Projeto](https://github.com/AmandxDantas/portfolio-amanda-dantas-araujo-santos/tree/56627d51b37fe9b8cdf1841079cafab1937b3229/projeto-musica-ia.) |
+
 
 
 
